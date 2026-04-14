@@ -23,8 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimanidavid&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimanidavid&layout=compact&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimanidavid&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimanidavid&layout=compact&theme=radical&hide_border=true)
 
 ## 🔗 Connect with Me 
 
