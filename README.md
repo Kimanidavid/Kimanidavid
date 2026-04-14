@@ -1,8 +1,7 @@
 # Hi there 👋, I'm David Kimani
-
-🌱 Passionate Data Analyst, Full Stack Software Developer & AI Enthusiast from Kenya  
+🌱 Passionate Data Analyst, Full Stack Software Developer & AI Data Trainer from Kenya  
 💻 Currently learning Business intelligence tools & AI-powered applications  
-🛠️ Building projects in JavaScript, Node.js, Express, MySQL, Python, and React  
+🛠️ Building projects in JavaScript, Node.js, Express, MySQL, Python, and React
 
 ## ⚡ Tech Stack
 
