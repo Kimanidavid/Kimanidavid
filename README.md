@@ -52,10 +52,10 @@
 
 <div align="center">
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimanidavid&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimanidavid&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanidavid&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanidavid&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kimanidavid&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=kimanidavid&theme=radical&hide_border=true)
 
 </div>
 
